@@ -2,4 +2,4 @@
 
 - Notification (Samsung)
 - Share Sheet
-– Bottom Navigation
+- Bottom Navigation

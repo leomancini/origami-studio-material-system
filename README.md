@@ -5,10 +5,15 @@
 - Share Sheet
 - Bottom Navigation
 
-#### To Do
+#### To clean + add to repo
 - Notification (Standard Android)
 - Action Sheet
 - System Navigation
 - App Bar: Top
 - Tabs
 - Button
+
+#### To do
+- Update pressed indicator in share sheet
+
+

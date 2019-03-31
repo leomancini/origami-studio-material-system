@@ -20,8 +20,8 @@
 
 ## Bottom Navigation Bar
 
-<p>An Android bottom navigation with customizable tabs.</p>
-<p>Use the Touch button on the component to get information about the selected tab.</p>
+#### An Android bottom navigation with customizable tabs.
+#### Use the Touch button on the component to get information about the selected tab.
 
 ![Screenshot of Bottom Navigation Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Navigation%20Bar.jpg "Bottom Navigation Bar")
 
@@ -61,8 +61,8 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ## Button
 
-<p>A button with customizable style and text. Supports Text, Outlined, and Contained button types.</p>
-<p>Use the Touch button on the component to capture when the button was tapped.</p>
+#### A button with customizable style and text. Supports Text, Outlined, and Contained button types.
+#### Use the Touch button on the component to capture when the button was tapped.
 
 ![Screenshot of Button](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Button.jpg "Button")
 
@@ -90,8 +90,8 @@ Download [Component](https://github.com/leomancini31/origami-android-components/
 
 ## Samsung Notification
 
-<p>A pushed Android notification with customizable app information and messaging. Visual style most closely aligns with Samsung UI.</p>
-<p>Use the Touch button on the component to capture when the notification was tapped.</p>
+#### A pushed Android notification with customizable app information and messaging. Visual style most closely aligns with Samsung UI.
+#### Use the Touch button on the component to capture when the notification was tapped.
 
 ![Screenshot of Samsung Notification](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Samsung%20Notification.jpg "Samsung Notification")
 
@@ -117,8 +117,8 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ## Share Sheet
 
-<p>An Android bottom sheet with share actions.</p>
-<p>Use the Touch button on the component to capture which icon was tapped.</p>
+#### An Android bottom sheet with share actions.
+#### Use the Touch button on the component to capture which icon was tapped.
 
 ![Screenshot of Share Sheet](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.jpg "Share Sheet")
 
@@ -143,8 +143,8 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ## System Navigation Bar
 
-<p>An Android system navigation bar. Visual style aligns with Samsung UI.</p>
-<p>Use the Touch button on the component to capture taps on individual buttons.</p>
+#### An Android system navigation bar. Visual style aligns with Samsung UI.
+#### Use the Touch button on the component to capture taps on individual buttons.
 
 ![Screenshot of System Navigation Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/System%20Navigation%20Bar.jpg "System Navigation Bar")
 
@@ -169,8 +169,8 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ## Top App Bar
 
-<p>An Android top app bar with customizable left and right actions. It offers regular and prominent sizes.</p>
-<p>Use the Touch button on the component to capture taps on individual icons in the app bar.</p>
+#### An Android top app bar with customizable left and right actions. It offers regular and prominent sizes.
+#### Use the Touch button on the component to capture taps on individual icons in the app bar.
 
 ![Screenshot of Top App Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Top%20App%20Bar%20–%20596792340.jpg "Top App Bar")
 

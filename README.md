@@ -20,6 +20,8 @@
 
 ## Bottom Navigation Bar
 
+Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Bottom%20Navigation%20Bar.origami) | [Example](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
+
 ### Inputs
 
 * **Enable**&nbsp;&nbsp; A boolean that is true when the tab bar is displayed.
@@ -54,6 +56,8 @@
 
 ## Button
 
+Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Button.origami) | [Example](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Button%20%E2%80%93%20Example.origami) 
+
 ### Inputs
 
 * **Enable**&nbsp;&nbsp; A boolean that is true when the button is displayed.
@@ -76,6 +80,8 @@
 
 ## Samsung Notification
 
+Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Notification.origami) | [Example](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Notification%20%E2%80%93%20Example.origami) 
+
 ### Inputs
 
 * **Present**&nbsp;&nbsp; A pulse that displays the notification.
@@ -96,6 +102,8 @@
 
 ## Share Sheet
 
+Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Share%20Sheet.origami) | [Example](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Share%20Sheet%20%E2%80%93%20Example.origami) 
+
 ### Inputs
 
 * **Present**&nbsp;&nbsp; A pulse that displays the share sheet.
@@ -113,7 +121,9 @@
 
 &nbsp;
 
-## System Navigation Bar 
+## System Navigation Bar
+
+Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/System%20Navigation%20Bar.origami) | [Example](https://github.com/leomancini31/origami-android-components/raw/master/Examples/System%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
 ### Inputs
 
@@ -135,6 +145,8 @@
 ## Top App Bar
 
 ![Screenshot of Top App Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Top%20App%20Bar%20–%20596792340.jpg "Top App Bar")
+
+Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Top%20App%20Bar.origami) | [Example](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Top%20App%20Bar%20%E2%80%93%20Example.origami)
 
 ### Inputs
 

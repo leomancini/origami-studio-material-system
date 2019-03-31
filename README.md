@@ -24,7 +24,7 @@
 
 ## Top App Bar
 
-![Screenshot of Top App Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Top%20App%20Bar%20–%201554067428.jpg?raw=true "Top App Bar")
+![Screenshot of Top App Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Top%20App%20Bar%20–%20596792349.jpg?raw=true "Top App Bar")
 
 ### Inputs
 

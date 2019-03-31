@@ -13,6 +13,3 @@
 - System Navigation
 - Tabs
 
-#### To do
-- Add documentation for App Bar Top
-

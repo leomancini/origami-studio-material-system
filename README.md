@@ -2,7 +2,7 @@
 
 - [Bottom Navigation Bar](https://github.com/leomancini31/origami-android-components#bottom-navigation-bar)
 - [Button](https://github.com/leomancini31/origami-android-components#button)
-- [Samsung Notification](https://github.com/leomancini31/origami-android-components#top-app-bar)
+- [Samsung Notification](https://github.com/leomancini31/origami-android-components#samsung-notification)
 - [Share Sheet](https://github.com/leomancini31/origami-android-components#share-sheet)
 - [System Navigation Bar](https://github.com/leomancini31/origami-android-components#system-navigation-bar)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)

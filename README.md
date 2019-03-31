@@ -84,6 +84,8 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ## Samsung Notification
 
+![Screenshot of Samsung Notification](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Samsung%20Notification.jpg "Samsung Notification")
+
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Notification.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Notification%20%E2%80%93%20Example.origami) 
 
 ### Inputs
@@ -106,6 +108,8 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ## Share Sheet
 
+![Screenshot of Share Sheet](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.jpg "Share Sheet")
+
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Share%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Share%20Sheet%20%E2%80%93%20Example.origami) 
 
 ### Inputs
@@ -126,6 +130,8 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 &nbsp;
 
 ## System Navigation Bar
+
+![Screenshot of System Navigation Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/System%20Navigation%20Bar.jpg "System Navigation Bar")
 
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/System%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/System%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 

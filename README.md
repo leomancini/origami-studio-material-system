@@ -52,26 +52,21 @@
 * **Tab 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth tab is tapped.
 * **Tab 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth tab is tapped.
 
+&nbsp;
+
 ## System Navigation Bar 
 
 ### Layer Inputs
 
 * **Enable**&nbsp;&nbsp; A boolean that is true when the navigation bar is displayed.
-
 * **Theme**&nbsp;&nbsp; Determines the color theme of the navigation bar.
-
 * **Switch to Light**&nbsp;&nbsp; A pulse that switches the color theme to dark.
-
 * **Switch to Dark**&nbsp;&nbsp; A pulse that switches the color theme to dark.
 
 ### Layer Outputs
 
 * **Any Button Tapped**&nbsp;&nbsp; A pulse that represents when any button is tapped.
-
 * **Back Button Tapped**&nbsp;&nbsp; A pulse that represents when the back button is tapped.
-
 * **Home Button Tapped**&nbsp;&nbsp; A pulse that represents when the home button is tapped.
-
 * **App Switcher Button Tapped**&nbsp;&nbsp;A pulse that represents when the app switcher button is tapped.
-
 * **Height**&nbsp;&nbsp;A number representing the height of the navigation bar, in points.

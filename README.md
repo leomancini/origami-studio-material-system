@@ -20,6 +20,8 @@
 
 ## Bottom Navigation Bar
 
+![Screenshot of Bottom Navigation Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Navigation%20Bar.jpg "Bottom Navigation Bar")
+
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Bottom%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
 ### Inputs

@@ -28,7 +28,6 @@
 
 <img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Bottom%20Navigation%20Bar.gif" width="600">
 
-
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Bottom%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
 ### Inputs

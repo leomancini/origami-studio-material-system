@@ -20,7 +20,7 @@
 
 ## Bottom Navigation Bar
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Bottom%20Navigation%20Bar%20%E2%80%93%201246356344.gif" width="320">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Bottom%20Navigation%20Bar%20%E2%80%93%201246356344.gif" width="350">
 
 *An Android bottom navigation with customizable tabs.*
 <br>

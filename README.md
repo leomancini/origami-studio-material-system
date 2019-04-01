@@ -7,13 +7,13 @@
 - [System Navigation Bar](https://github.com/leomancini31/origami-android-components#system-navigation-bar)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)
 
-* To clean + add to repo
+#### To clean + add to repo
 - Notification (Standard Android)
 - Action Sheet
 - Tabs
 
-* To Do
-
+#### To Do
+- Make GIFs for Button, Samsung Notification, Share Sheet, System Navigation Bar, and Top App Bar
 &nbsp;
 &nbsp;
 &nbsp;

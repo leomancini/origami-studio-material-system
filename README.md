@@ -62,7 +62,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ## Button
 
-*A button with customizable style and text. Supports Text, Outlined, and Contained button types*
+*A button with customizable style and text. Supports Text, Outlined, and Contained button types.*
 <br>
 *Use the Touch button on the component to capture when the button was tapped.*
 
@@ -92,7 +92,7 @@ Download [Component](https://github.com/leomancini31/origami-android-components/
 
 ## Samsung Notification
 
-*A pushed Android notification with customizable app information and messaging. Visual style most closely aligns with Samsung UI*
+*A pushed Android notification with customizable app information and messaging. Visual style most closely aligns with Samsung UI.*
 <br>
 *Use the Touch button on the component to capture when the notification was tapped.*
 
@@ -147,7 +147,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ## System Navigation Bar
 
-*An Android system navigation bar. Visual style aligns with Samsung UI*
+*An Android system navigation bar. Visual style aligns with Samsung UI.*
 <br>
 *Use the Touch button on the component to capture taps on individual buttons.*
 
@@ -174,7 +174,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ## Top App Bar
 
-*An Android top app bar with customizable left and right actions. It offers regular and prominent sizes*
+*An Android top app bar with customizable left and right actions. It offers regular and prominent sizes.*
 <br>
 *Use the Touch button on the component to capture taps on individual icons in the app bar.*
 

@@ -127,6 +127,9 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 ![Screenshot of Share Sheet](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.jpg "Share Sheet")
 
+Icons from 
+[Material Design](https://material.io/tools/icons/?style=baseline)
+
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Share%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Share%20Sheet%20%E2%80%93%20Example.origami) 
 
 ### Inputs

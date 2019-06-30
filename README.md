@@ -13,7 +13,7 @@
 - Tabs
 
 #### To Do
-- Make GIFs for Button, Samsung Notification, Share Sheet, System Navigation Bar, and Top App Bar
+- Make GIFs for Samsung Notification, Share Sheet, System Navigation Bar, and Top App Bar
 &nbsp;
 &nbsp;
 &nbsp;
@@ -65,6 +65,8 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 *A button with customizable style and text. Supports Text, Outlined, and Contained button types.*
 <br>
 *Use the Touch button on the component to capture when the button was tapped.*
+
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Button.gif" width="400">
 
 ![Screenshot of Button](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Button.jpg "Button")
 

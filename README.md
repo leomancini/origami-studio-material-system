@@ -13,18 +13,17 @@
 - Tabs
 
 #### To Do
-- Make GIFs for Samsung Notification, Share Sheet, System Navigation Bar, and Top App Bar
 &nbsp;
 &nbsp;
 &nbsp;
 
 ## Bottom Navigation Bar
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Bottom%20Navigation%20Bar%20%E2%80%93%201246356344.gif" width="350">
-
 *An Android bottom navigation with customizable tabs.*
 <br>
 *Use the Touch button on the component to get information about the selected tab.*
+
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Bottom%20Navigation%20Bar%20%E2%80%93%201246356344.gif" width="350">
 
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Bottom%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
@@ -123,6 +122,8 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 *An Android bottom sheet with share actions*
 <br>
 *Use the Touch button on the component to capture which icon was tapped.*
+
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Share%20Sheet%20–%201561859461.gif" width="350">
 
 ![Screenshot of Share Sheet](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.jpg "Share Sheet")
 

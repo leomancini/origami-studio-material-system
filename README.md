@@ -123,9 +123,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 <br>
 *Use the Touch button on the component to capture which icon was tapped.*
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Share%20Sheet%20–%201561859461.gif" width="350">
-
-![Screenshot of Share Sheet](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.jpg "Share Sheet")
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Share%20Sheet%20–%201561859461.gif" width="300">
 
 Icons from 
 [Material Design](https://material.io/tools/icons/?style=baseline)

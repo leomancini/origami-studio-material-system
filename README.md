@@ -66,7 +66,9 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 <br>
 *Use the Touch button on the component to capture when the button was tapped.*
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Button.gif" width="500">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Button%20%E2%80%93%201561856741.gif" width="350">
+
+![Screenshot of Button](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Button.jpg "Button")
 
 Download [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Button.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Button%20%E2%80%93%20Example.origami) 
 

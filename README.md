@@ -178,7 +178,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 <br>
 *Use the Touch button on the component to capture taps on individual icons in the app bar.*
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Top%20App%20Bar%20–%201561857616.gif" width="500">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Top%20App%20Bar%20–%201561857616.gif" width="350">
 
 ![Screenshot of Top App Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Top%20App%20Bar%20–%20596792340.jpg "Top App Bar")
 

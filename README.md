@@ -151,7 +151,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 <br>
 *Use the Touch button on the component to capture taps on individual buttons.*
 
-![Screenshot of System Navigation Bar](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/System%20Navigation%20Bar.jpg "System Navigation Bar")
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/System%20Navigation%20Bar%20–%201561857174.gif" width="500">
 
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/System%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/System%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 

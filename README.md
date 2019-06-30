@@ -23,7 +23,7 @@
 <br>
 *Use the Touch button on the component to get information about the selected tab.*
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Bottom%20Navigation%20Bar%20%E2%80%93%201246356344.gif" width="350">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Navigation%20Bar.gif" width="350">
 
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Bottom%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
@@ -65,7 +65,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 <br>
 *Use the Touch button on the component to capture when the button was tapped.*
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Button%20%E2%80%93%201561856741.gif" width="500">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Button.gif" width="500">
 
 Download [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Button.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Button%20%E2%80%93%20Example.origami) 
 
@@ -123,7 +123,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 <br>
 *Use the Touch button on the component to capture which icon was tapped.*
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Share%20Sheet%20–%201561859461.gif" width="300">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.gif" width="300">
 
 Icons from 
 [Material Design](https://material.io/tools/icons/?style=baseline)
@@ -153,7 +153,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 <br>
 *Use the Touch button on the component to capture taps on individual buttons.*
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/System%20Navigation%20Bar%20–%201561857404.gif" width="700">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/System%20Navigation%20Bar.gif" width="700">
 
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/System%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/System%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
@@ -181,7 +181,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 *Use the Touch button on the component to capture taps on individual icons in the app bar.*
 
 <br>
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Demo%20Videos/Top%20App%20Bar%20–%201561857616.gif" width="320">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Top%20App%20Bar.gif" width="320">
 
 Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Top%20App%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Top%20App%20Bar%20%E2%80%93%20Example.origami)
 

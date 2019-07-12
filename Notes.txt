@@ -1,0 +1,39 @@
+iOS						Android						Status
+
+Action Sheet			Action Sheet				TO CLEAN
+						Button						DONE
+						Checkbox					Included in Origami
+Activity Indicator		Circular Progress			Included in Origami
+Alert View				Alert View					Included in Origami
+Fake Keyboard			Fake Keyboard				Included in Origami		
+Navigation Bar			Top App Bar					DONE
+Notification			Notification				DONE
+Page Control			Page Control				Included in Origami
+Screen					Screen						Included in Origami
+Segmented Control		Tabs						TO CLEAN
+Slider					Slider						TO DO
+						Share Sheet					DONE
+						System Navigation Bar		DONE
+Status Bar				Status Bar					Included in Origami	
+Switch					Switch						Included in Origami	
+Tab Bar					Bottom Navigation Bar		DONE
+Visual Effect			N/A							N/A
+
+
+
+
+													TO DO
+													
+													Bottom Sheet - TO CLEAN
+													Tabs - TO CLEAN
+													Slider - TO DO
+													
+													
+													OTHER IDEAS
+													
+													Icons
+													Floating action button
+													Navigation drawer
+													Snackbars
+													Chips – IN PROGRESS
+													Menu – IN PROGRESS

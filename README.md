@@ -1,13 +1,13 @@
 # Origami Android Components
 
 - [Bottom Navigation Bar](https://github.com/leomancini31/origami-android-components#bottom-navigation-bar)
+- [Bottom Sheet](https://github.com/leomancini31/origami-android-components#bottom-sheet)
 - [Button](https://github.com/leomancini31/origami-android-components#button)
 - [Icon (Layer)](https://github.com/leomancini31/origami-android-components#icon-layer)
 - [Icon (Patch)](https://github.com/leomancini31/origami-android-components#icon-patch)
 - [Menu](https://github.com/leomancini31/origami-android-components#menu)
 - [Samsung Notification](https://github.com/leomancini31/origami-android-components#samsung-notification)
 - [Share Sheet](https://github.com/leomancini31/origami-android-components#share-sheet)
-- [Bottom Sheet](https://github.com/leomancini31/origami-android-components#bottom-sheet)
 - [System Navigation Bar](https://github.com/leomancini31/origami-android-components#system-navigation-bar)
 - [Tabs](https://github.com/leomancini31/origami-android-components#tabs)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)
@@ -53,6 +53,39 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Tab 4 Tapped**&nbsp;&nbsp; A pulse that represents when the fourth tab is tapped.
 * **Tab 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth tab is tapped.
 * **Tab 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth tab is tapped.
+
+&nbsp;
+
+## Bottom Sheet
+
+An Android bottom sheet with a list of actions.
+<br>
+Use the Touch button on the component to capture which row was tapped.
+
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Sheet.gif" width="300">
+
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Bottom%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Sheet%20%E2%80%93%20Example.origami) 
+
+### Inputs
+
+* **Present**&nbsp;&nbsp; A pulse that displays the bottom sheet.
+* **Number of Rows**&nbsp;&nbsp; A number that represents the number of visible rows.
+* **Bottom Margin**&nbsp;&nbsp; A number representing the relative distance from the bottom of the screen. Useful for offsetting the position of the share sheet when a system navigation bar is present.
+* **Row Icon Color**&nbsp;&nbsp; The color of the icon in each row.
+* **Row Text Color**&nbsp;&nbsp; The color of the text label in each row.
+* **Row Background Color**&nbsp;&nbsp; The color of the background of each row.
+
+### Outputs
+
+* **Tapped Row Index**&nbsp;&nbsp; An index that represents which row is tapped, starting at 0.
+* **Tapped Row Label Text**&nbsp;&nbsp; A text string that represents the value of the label of the row which is tapped.
+* **Any Icon Tapped**&nbsp;&nbsp; A pulse that represents when any row is tapped.
+* **Row 1 Tapped**&nbsp;&nbsp; A pulse that represents when the first row is tapped.
+* **Row 2 Tapped**&nbsp;&nbsp; A pulse that represents when the second row is tapped.
+* **Row 3 Tapped**&nbsp;&nbsp; A pulse that represents when the third row is tapped.
+* **Row 4 Tapped**&nbsp;&nbsp; A pulse that represents when the fourth row is tapped.
+* **Row 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth row is tapped.
+* **Row 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth row is tapped.
 
 &nbsp;
 
@@ -242,39 +275,6 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Icon 4 Tapped**&nbsp;&nbsp; A pulse that represents when the fourth icon is tapped.
 * **Icon 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth icon is tapped.
 * **Icon 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth icon is tapped.
-
-&nbsp;
-
-## Bottom Sheet
-
-An Android bottom sheet with a list of actions.
-<br>
-Use the Touch button on the component to capture which row was tapped.
-
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Sheet.gif" width="300">
-
-Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Bottom%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Sheet%20%E2%80%93%20Example.origami) 
-
-### Inputs
-
-* **Present**&nbsp;&nbsp; A pulse that displays the bottom sheet.
-* **Number of Rows**&nbsp;&nbsp; A number that represents the number of visible rows.
-* **Bottom Margin**&nbsp;&nbsp; A number representing the relative distance from the bottom of the screen. Useful for offsetting the position of the share sheet when a system navigation bar is present.
-* **Row Icon Color**&nbsp;&nbsp; The color of the icon in each row.
-* **Row Text Color**&nbsp;&nbsp; The color of the text label in each row.
-* **Row Background Color**&nbsp;&nbsp; The color of the background of each row.
-
-### Outputs
-
-* **Tapped Row Index**&nbsp;&nbsp; An index that represents which row is tapped, starting at 0.
-* **Tapped Row Label Text**&nbsp;&nbsp; A text string that represents the value of the label of the row which is tapped.
-* **Any Icon Tapped**&nbsp;&nbsp; A pulse that represents when any row is tapped.
-* **Row 1 Tapped**&nbsp;&nbsp; A pulse that represents when the first row is tapped.
-* **Row 2 Tapped**&nbsp;&nbsp; A pulse that represents when the second row is tapped.
-* **Row 3 Tapped**&nbsp;&nbsp; A pulse that represents when the third row is tapped.
-* **Row 4 Tapped**&nbsp;&nbsp; A pulse that represents when the fourth row is tapped.
-* **Row 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth row is tapped.
-* **Row 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth row is tapped.
 
 &nbsp;
 

@@ -135,6 +135,49 @@ Download: [Patch Component](https://github.com/leomancini31/origami-android-comp
 
 &nbsp;
 
+## Menu
+
+*An Android menu with a list of actions.*
+<br>
+*Use the Touch button on the component to capture which item was tapped.*
+
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Menu.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Menu%20%E2%80%93%20Example.origami) 
+
+### Inputs
+
+* **Enable**&nbsp;&nbsp; A boolean that is true when the menu is able to be displayed.
+* **Present**&nbsp;&nbsp; A pulse that displays the menu.
+* **Dismiss**&nbsp;&nbsp; A pulse that hides the menu.
+* **Anchor**&nbsp;&nbsp; The anchor point to position the menu relative to.
+* **Position**&nbsp;&nbsp; The position to display the menu.
+* **Use Auto Width**&nbsp;&nbsp; A boolean that determines if the width should be automatically set based on the width of the longest item text.
+* **Manual Width**&nbsp;&nbsp; A number that represents the width of the menu, if Use Auto Width is not set to true.
+* **Use Auto Number of Items**&nbsp;&nbsp; A boolean that determines if number of visible items be automatically set based on the amount of items that have a text string assigned.
+* **Manual Number of Items**&nbsp;&nbsp; A number that represents the number of visible items, if Use Auto Number of Items is not set to true.
+* **Use Auto Pivot Position**&nbsp;&nbsp; A boolean that determines if the position where the menu originates from should be automatically set based on where the menu is positioned.
+* **Manual Pivot Position**&nbsp;&nbsp; The position where the menu originates from, if Use Auto Pivot Position is not set to true.
+* **Show Icons**&nbsp;&nbsp; A boolean that determines if an icon is shown on the left side of each item.
+
+### Outputs
+
+* **Tapped Item Index**&nbsp;&nbsp; An index that represents which item is tapped, starting at 0.
+* **Tapped Item Text**&nbsp;&nbsp; A text string that represents the value of the item which is tapped.
+* **Any Item Tapped**&nbsp;&nbsp; A pulse that represents when any item is tapped.
+* **Item 1 Tapped**&nbsp;&nbsp; A pulse that represents when the first item is tapped.
+* **Item 2 Tapped**&nbsp;&nbsp; A pulse that represents when the second item is tapped.
+* **Item 3 Tapped**&nbsp;&nbsp; A pulse that represents when the third item is tapped.
+* **Item 4 Tapped**&nbsp;&nbsp; A pulse that represents when the fourth item is tapped.
+* **Item 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth item is tapped.
+* **Item 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth item is tapped.
+* **Item 7 Tapped**&nbsp;&nbsp; A pulse that represents when the seventh item is tapped.
+* **Item 8 Tapped**&nbsp;&nbsp; A pulse that represents when the eigth item is tapped.
+* **Item 9 Tapped**&nbsp;&nbsp; A pulse that represents when the ninth item is tapped.
+* **Item 10 Tapped**&nbsp;&nbsp; A pulse that represents when the tenth item is tapped.
+* **Item 11 Tapped**&nbsp;&nbsp; A pulse that represents when the eleventh item is tapped.
+* **Item 12 Tapped**&nbsp;&nbsp; A pulse that represents when the twelvth item is tapped.
+
+&nbsp;
+
 ## Samsung Notification
 
 *A pushed Android notification with customizable app information and messaging. Visual style most closely aligns with Samsung UI.*
@@ -179,6 +222,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 ### Inputs
 
 * **Present**&nbsp;&nbsp; A pulse that displays the share sheet.
+* **Bottom Margin**&nbsp;&nbsp; A number representing the relative distance from the bottom of the screen. Useful for offsetting the position of the share sheet when a system navigation bar is present.
 
 ### Outputs
 
@@ -190,6 +234,37 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Icon 4 Tapped**&nbsp;&nbsp; A pulse that represents when the fourth icon is tapped.
 * **Icon 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth icon is tapped.
 * **Icon 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth icon is tapped.
+
+&nbsp;
+
+## Bottom Sheet
+
+*An Android bottom sheet with a list of actions.*
+<br>
+*Use the Touch button on the component to capture which row was tapped.*
+
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Bottom%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Sheet%20%E2%80%93%20Example.origami) 
+
+### Inputs
+
+* **Present**&nbsp;&nbsp; A pulse that displays the bottom sheet.
+* **Number of Rows**&nbsp;&nbsp; A number that represents the number of visible rows.
+* **Bottom Margin**&nbsp;&nbsp; A number representing the relative distance from the bottom of the screen. Useful for offsetting the position of the share sheet when a system navigation bar is present.
+* **Row Icon Color**&nbsp;&nbsp; The color of the icon in each row.
+* **Row Text Color**&nbsp;&nbsp; The color of the text label in each row.
+* **Row Background Color**&nbsp;&nbsp; The color of the background of each row.
+
+### Outputs
+
+* **Tapped Row Index**&nbsp;&nbsp; An index that represents which row is tapped, starting at 0.
+* **Tapped Row Label Text**&nbsp;&nbsp; A text string that represents the value of the label of the row which is tapped.
+* **Any Icon Tapped**&nbsp;&nbsp; A pulse that represents when any row is tapped.
+* **Row 1 Tapped**&nbsp;&nbsp; A pulse that represents when the first row is tapped.
+* **Row 2 Tapped**&nbsp;&nbsp; A pulse that represents when the second row is tapped.
+* **Row 3 Tapped**&nbsp;&nbsp; A pulse that represents when the third row is tapped.
+* **Row 4 Tapped**&nbsp;&nbsp; A pulse that represents when the fourth row is tapped.
+* **Row 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth row is tapped.
+* **Row 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth row is tapped.
 
 &nbsp;
 

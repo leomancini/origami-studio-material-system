@@ -21,13 +21,12 @@ Visual Effect			N/A							N/A
 
 													Menu – DONE
 													Icon – DONE
-													
+													Bottom Sheet - DONE
 													
 													
 
 													TO DO
 													
-													Bottom Sheet - TO CLEAN
 													Tabs - TO CLEAN
 													Slider - TO DO
 													

@@ -32,7 +32,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Number of Tabs**&nbsp;&nbsp; A number representing the number of items in the bottom navigation.
 * **Switch to Tab**&nbsp;&nbsp; The index of the tab to switch to, starting at 0.
 * **Switch Tab**&nbsp;&nbsp; A pulse that changes the currently selected tab.
-* **Background**&nbsp;&nbsp; The background color of the bottom navigation.
+* **Background Color**&nbsp;&nbsp; The background color of the bottom navigation.
 * **Unselected Tabs Icon Color**&nbsp;&nbsp; The color of the icons of the unselected tabs.
 * **Unselected Tabs Label Color**&nbsp;&nbsp; The color of the labels of the unselected tabs.
 * **Selected Tab Icon Color**&nbsp;&nbsp; The color of the icon of the selected tab.
@@ -44,7 +44,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 ### Outputs
 
 * **Selected Tab Index**&nbsp;&nbsp; An index that represents the currently selected tab, starting at 0.
-* **Selected Tab Label**&nbsp;&nbsp; A text string that represents the label of the currently selected tab.
+* **Selected Tab Label Text**&nbsp;&nbsp; A text string that represents the label of the currently selected tab.
 * **Any Tab Tapped**&nbsp;&nbsp; A pulse that represents when any tab is tapped.
 * **Tab 1 Tapped**&nbsp;&nbsp; A pulse that represents when the first tab is tapped.
 * **Tab 2 Tapped**&nbsp;&nbsp; A pulse that represents when the second tab is tapped.
@@ -99,7 +99,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Secure Request**&nbsp;&nbsp; A boolean that determines if the network request to get the icon image is made over HTTPS.
 * **Position**&nbsp;&nbsp; The position to display the icon.
 * **Anchor**&nbsp;&nbsp; The anchor point to position the icon relative to.
-* **Category**&nbsp;&nbsp; A text string that determines the category of the specified icon. These labels correspond to the top-level folder structure in [the GitHub repository](https://github.com/google/material-design-icons)</a>.
+* **Category**&nbsp;&nbsp; A list of options that determines the category of the specified icon. These labels correspond to the top-level folder structure in [the GitHub repository](https://github.com/google/material-design-icons)</a>.
 * **Icon Identifier**&nbsp;&nbsp; A text string that determines which icon is requested. These correspond to the string in between the 'ic' and the color in the URL to be loaded. For example, a value of '3d_rotation' would load <https://github.com/google/material-design-icons/blob/master/action/drawable-xxhdpi/ic_3d_rotation_black_18dp.png>
 * **Size**&nbsp;&nbsp; A number, in Density Independent pixels, that determines the size of the specified icon. The value can be either 18, 24, 36, or 48.
 * **Use Auto Resolution**&nbsp;&nbsp; A boolean that determines if resolution to be specified is automatically set based on the screen scale of the device.
@@ -299,6 +299,43 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Home Button Tapped**&nbsp;&nbsp; A pulse that represents when the home button is tapped.
 * **App Switcher Button Tapped**&nbsp;&nbsp;A pulse that represents when the app switcher button is tapped.
 * **Height**&nbsp;&nbsp;A number representing the height of the navigation bar, in points.
+
+&nbsp;
+
+## Tabs
+
+*An Android tab bar with customizable items.*
+<br>
+*Use the Touch button on the component to get information about the selected tab.*
+
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Tabs.gif" width="320">
+
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Tabs.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Tabs%20%E2%80%93%20Example.origami)
+
+### Inputs
+
+* **Type**&nbsp;&nbsp; A list of options that determines if the tab includes text only, icons only, or icons and text.
+* **Number of Tabs**&nbsp;&nbsp; A number representing the number of items in the tab bar.
+* **Switch to Tab**&nbsp;&nbsp; The index of the tab to switch to, starting at 0.
+* **Switch Tab**&nbsp;&nbsp; A pulse that changes the currently selected tab.
+* **Tab Background Color**&nbsp;&nbsp; The background color of the tabs.
+* **Shadow**&nbsp;&nbsp; A boolean that determines if a shadow is visible below the tabs.
+* **Position Y**&nbsp;&nbsp; The vertical position of the tabs.
+* **Selected Indicator Color**&nbsp;&nbsp; The color of the selected indicator of the selected tab.
+* **Label and Icon Color (Selected Tab)**&nbsp;&nbsp; The color of the text label of the selected tab.
+* **Label and Icon Color (Unselected Tab)**&nbsp;&nbsp; The color of the text label of the unselected tab.
+
+### Outputs
+
+* **Selected Tab Index**&nbsp;&nbsp; An index that represents the currently selected tab, starting at 0.
+* **Selected Tab Label Text**&nbsp;&nbsp; A text string that represents the label of the currently selected tab.
+* **Any Tab Tapped**&nbsp;&nbsp; A pulse that represents when any tab is tapped.
+* **Tab 1 Tapped**&nbsp;&nbsp; A pulse that represents when the first tab is tapped.
+* **Tab 2 Tapped**&nbsp;&nbsp; A pulse that represents when the second tab is tapped.
+* **Tab 3 Tapped**&nbsp;&nbsp; A pulse that represents when the third tab is tapped.
+* **Tab 4 Tapped**&nbsp;&nbsp; A pulse that represents when the fourth tab is tapped.
+* **Tab 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth tab is tapped.
+* **Tab 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth tab is tapped.
 
 &nbsp;
 

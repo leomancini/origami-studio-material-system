@@ -188,7 +188,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 <br>
 *Use the Touch button on the component to capture when the notification was tapped.*
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Samsung%20Notification.gif" width="362">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Samsung%20Notification.jpg" width="362">
 
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Notification.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Notification%20%E2%80%93%20Example.origami) 

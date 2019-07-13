@@ -6,7 +6,7 @@
 - [Icon (Layer)](https://github.com/leomancini31/origami-android-components#icon-layer)
 - [Icon (Patch)](https://github.com/leomancini31/origami-android-components#icon-patch)
 - [Menu](https://github.com/leomancini31/origami-android-components#menu)
-- [Samsung Notification](https://github.com/leomancini31/origami-android-components#samsung-notification)
+- [Notification](https://github.com/leomancini31/origami-android-components#notification)
 - [Share Sheet](https://github.com/leomancini31/origami-android-components#share-sheet)
 - [System Navigation Bar](https://github.com/leomancini31/origami-android-components#system-navigation-bar)
 - [Tabs](https://github.com/leomancini31/origami-android-components#tabs)
@@ -218,13 +218,13 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 
 &nbsp;
 
-## Samsung Notification
+## Notification
 
 A pushed Android notification with customizable app information and messaging. Visual style most closely aligns with Samsung UI.
 <br>
 Use the Touch button on the component to capture when the notification was tapped.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Samsung%20Notification.jpg" width="362">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Notification.jpg" width="362">
 
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Notification.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Notification%20%E2%80%93%20Example.origami) 

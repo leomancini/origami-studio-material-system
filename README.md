@@ -9,7 +9,8 @@
 - [System Navigation Bar](https://github.com/leomancini31/origami-android-components#system-navigation-bar)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)
 
----
+<br>
+<br>
 
 ## Bottom Navigation Bar
 

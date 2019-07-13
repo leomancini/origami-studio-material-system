@@ -248,6 +248,8 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 <br>
 *Use the Touch button on the component to capture which row was tapped.*
 
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Sheet.gif" width="300">
+
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Bottom%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Sheet%20%E2%80%93%20Example.origami) 
 
 ### Inputs

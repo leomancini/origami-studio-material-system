@@ -4,8 +4,10 @@
 - [Button](https://github.com/leomancini31/origami-android-components#button)
 - [Icon (Layer)](https://github.com/leomancini31/origami-android-components#icon-layer)
 - [Icon (Patch)](https://github.com/leomancini31/origami-android-components#icon-patch)
+- [Menu](https://github.com/leomancini31/origami-android-components#menu)
 - [Samsung Notification](https://github.com/leomancini31/origami-android-components#samsung-notification)
 - [Share Sheet](https://github.com/leomancini31/origami-android-components#share-sheet)
+- [Bottom Sheet](https://github.com/leomancini31/origami-android-components#bottom-sheet)
 - [System Navigation Bar](https://github.com/leomancini31/origami-android-components#system-navigation-bar)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)
 

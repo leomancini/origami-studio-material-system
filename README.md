@@ -116,6 +116,8 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 
 ## Icon (Patch)
 
+This version of Icon can be used in the Patch Editor to output an icon image to another patch or layer.
+
 *An icon from [the baseline Material icon set](https://material.io/tools/icons/?style=baseline).*
 <br>
 *Requires an active Internet connection (icons are requested from the Google [GitHub repository](https://github.com/google/material-design-icons) of Material icons).*

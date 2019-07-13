@@ -19,8 +19,11 @@ Switch					Switch						Included in Origami
 Tab Bar					Bottom Navigation Bar		DONE
 Visual Effect			N/A							N/A
 
-
-
+													Menu – DONE
+													Icon – DONE
+													
+													
+													
 
 													TO DO
 													
@@ -31,9 +34,7 @@ Visual Effect			N/A							N/A
 													
 													OTHER IDEAS
 													
-													Icons
 													Floating action button
 													Navigation drawer
 													Snackbars
 													Chips – IN PROGRESS
-													Menu – IN PROGRESS

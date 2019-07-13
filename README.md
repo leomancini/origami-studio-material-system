@@ -25,7 +25,7 @@
 
 <img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Navigation%20Bar.gif" width="350">
 
-Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Bottom%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Bottom%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
 ### Inputs
 
@@ -67,7 +67,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 <img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Button.gif" width="500">
 
-Download [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Button.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Button%20%E2%80%93%20Example.origami) 
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Button.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Button%20%E2%80%93%20Example.origami) 
 
 ### Inputs
 
@@ -89,6 +89,58 @@ Download [Component](https://github.com/leomancini31/origami-android-components/
 
 &nbsp;
 
+## Icon (Layer)
+
+*An icon from [the baseline Material icon set](https://material.io/tools/icons/?style=baseline).*
+<br>
+*Requires an active Internet connection (icons are requested from the Google [GitHub repository](https://github.com/google/material-design-icons) of Material icons).*
+
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Icon.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Icon%20(Layer)%20%E2%80%93%20Example.origami) 
+
+### Inputs
+
+* **Enable**&nbsp;&nbsp; A boolean that is true when the icon is displayed.
+* **Secure Request**&nbsp;&nbsp; A boolean that determines if the network request to get the icon image is made over HTTPS.
+* **Position**&nbsp;&nbsp; The position to display the icon.
+* **Anchor**&nbsp;&nbsp; The anchor point to position the icon relative to.
+* **Category**&nbsp;&nbsp; A text string that determines the category of the specified icon. These labels correspond to the top-level folder structure in [the GitHub repository](https://github.com/google/material-design-icons)</a>.
+* **Icon Identifier**&nbsp;&nbsp; A text string that determines which icon is requested. These correspond to the string in between the 'ic' and the color in the URL to be loaded. For example, a value of '3d_rotation' would load <https://github.com/google/material-design-icons/blob/master/action/drawable-xxhdpi/ic_3d_rotation_black_18dp.png>
+* **Size**&nbsp;&nbsp; A number, in Density Independent pixels, that determines the size of the specified icon. The value can be either 18, 24, 36, or 48.
+* **Use Auto Resolution**&nbsp;&nbsp; A boolean that determines if resolution to be specified is automatically set based on the screen scale of the device.
+* **Resolution**&nbsp;&nbsp; The resolution of the icon, if Use Auto Resolution is not set to true. The value can be either MDPI, HDPI, XHPDI, XXHPDI, or XXXHPDI.
+* **Color**&nbsp;&nbsp; The color of the icon.
+
+### Outputs
+
+* **Image**&nbsp;&nbsp; An image that represents the specified icon.
+* **Size**&nbsp;&nbsp; A width and height representing the size of specified icon, in points.
+
+&nbsp;
+
+## Icon (Patch)
+
+*An icon from [the baseline Material icon set](https://material.io/tools/icons/?style=baseline).*
+<br>
+*Requires an active Internet connection (icons are requested from the Google [GitHub repository](https://github.com/google/material-design-icons) of Material icons).*
+
+Download: [Patch Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Patches/Icon.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Icon%20(Patch)%20%E2%80%93%20Example.origami) 
+
+### Inputs
+
+* **Secure Request**&nbsp;&nbsp; A boolean that determines if the network request to get the icon image is made over HTTPS.
+* **Category**&nbsp;&nbsp; A text string that determines the category of the specified icon. These labels correspond to the top-level folder structure in [the GitHub repository](https://github.com/google/material-design-icons)</a>.
+* **Icon Identifier**&nbsp;&nbsp; A text string that determines which icon is requested. These correspond to the string in between the 'ic' and the color in the URL to be loaded. For example, a value of '3d_rotation' would load <https://github.com/google/material-design-icons/blob/master/action/drawable-xxhdpi/ic_3d_rotation_black_18dp.png>
+* **Size**&nbsp;&nbsp; A number, in Density Independent pixels, that determines the size of the specified icon. The value can be either 18, 24, 36, or 48.
+* **Use Auto Resolution**&nbsp;&nbsp; A boolean that determines if resolution to be specified is automatically set based on the screen scale of the device.
+* **Resolution**&nbsp;&nbsp; The resolution of the icon, if Use Auto Resolution is not set to true. The value can be either MDPI, HDPI, XHPDI, XXHPDI, or XXXHPDI.
+
+### Outputs
+
+* **Image**&nbsp;&nbsp; An image that represents the specified icon.
+* **Size**&nbsp;&nbsp; A width and height representing the size of specified icon, in points.
+
+&nbsp;
+
 ## Samsung Notification
 
 *A pushed Android notification with customizable app information and messaging. Visual style most closely aligns with Samsung UI.*
@@ -97,7 +149,7 @@ Download [Component](https://github.com/leomancini31/origami-android-components/
 
 ![Screenshot of Samsung Notification](https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Samsung%20Notification.jpg "Samsung Notification")
 
-Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Notification.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Notification%20%E2%80%93%20Example.origami) 
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Notification.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Notification%20%E2%80%93%20Example.origami) 
 
 ### Inputs
 
@@ -128,7 +180,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 Icons from 
 [Material Design](https://material.io/tools/icons/?style=baseline)
 
-Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Share%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Share%20Sheet%20%E2%80%93%20Example.origami) 
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Share%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Share%20Sheet%20%E2%80%93%20Example.origami) 
 
 ### Inputs
 
@@ -155,7 +207,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 
 <img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/System%20Navigation%20Bar.gif" width="700">
 
-Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/System%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/System%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/System%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/System%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
 ### Inputs
 
@@ -183,7 +235,7 @@ Download: [Component](https://github.com/leomancini31/origami-android-components
 <br>
 <img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Top%20App%20Bar.gif" width="320">
 
-Download: [Component](https://github.com/leomancini31/origami-android-components/raw/master/Android%20Components/Top%20App%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Top%20App%20Bar%20%E2%80%93%20Example.origami)
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Top%20App%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Top%20App%20Bar%20%E2%80%93%20Example.origami)
 
 ### Inputs
 

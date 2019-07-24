@@ -296,7 +296,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Anchor**&nbsp;&nbsp; The anchor point to position the slider relative to.
 * **Type**&nbsp;&nbsp; The type of slider, either continuous, which allows for selecting any value within a range, or discrete, which limits value selection to a specific set of numbers based on the amount of tick markers specified.
 * **Show Tick Marks**&nbsp;&nbsp; A boolean that determines if tick marks are visible.
-* **Number of Tick Marks**&nbsp;&nbsp; A number that represents how many tick marks are shown. Tick marks are equally spaced within the slider and determine the values that a discrete slider can be set to. Only available when the type of the slider is set to discrete.
+* **Number of Tick Marks**&nbsp;&nbsp; A number that represents how many tick marks are shown. Tick marks are equally spaced within the slider and determine the values that a discrete slider can be set to. Only available when the type of the slider is set to discrete. Minimum value is 2 (one segment, with one tick mark on each side of the slider) and maximum value is 11 (ten segments between tick marks).
 * **Color**&nbsp;&nbsp; The color of the slider handle. The color of the value indicator, background, and tick marks are automatically generated based on this value.
 * **Min Value**&nbsp;&nbsp; A number that represents the minimum value that the slider can be set to.
 * **Max Value**&nbsp;&nbsp; A number that represents the maximum value that the slider can be set to.

@@ -1,6 +1,6 @@
 iOS						Android						Status
 
-Action Sheet			Action Sheet				TO CLEAN
+Action Sheet			Bottom Sheet				DONE
 						Button						DONE
 						Checkbox					Included in Origami
 Activity Indicator		Circular Progress			Included in Origami
@@ -10,7 +10,7 @@ Navigation Bar			Top App Bar					DONE
 Notification			Notification				DONE
 Page Control			Page Control				Included in Origami
 Screen					Screen						Included in Origami
-Segmented Control		Tabs						TO CLEAN
+Segmented Control		Tabs						DONE
 Slider					Slider						TO DO
 						Share Sheet					DONE
 						System Navigation Bar		DONE
@@ -21,19 +21,16 @@ Visual Effect			N/A							N/A
 
 													Menu – DONE
 													Icon – DONE
-													Bottom Sheet - DONE
-													
 													
 
 													TO DO
 													
-													Tabs - TO CLEAN
 													Slider - TO DO
 													
 													
 													OTHER IDEAS
 													
-													Floating action button
+													Floating action button – TO CLEAN
 													Navigation drawer
 													Snackbars
 													Chips – IN PROGRESS

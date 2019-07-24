@@ -1,0 +1,72 @@
+<p>An Android slider that can be either continuous or discrete.</p>
+<p>Use the Touch button on the component to get information about the current progress or value.</p>
+<div class="ports">
+	<div class="layer">
+		<div class="inputs">
+			<h2>Layer Inputs</h2>
+			<dl>
+				<dt>Position</dt>
+				<dd>
+					<p>The position to display the slider.</p>
+				</dd>
+				<dt>Width</dt>
+				<dd>
+					<p>A number that represents the width of the slider.</p>
+				</dd>
+				<dt>Anchor</dt>
+				<dd>
+					<p>The anchor point to position the slider relative to.</p>
+				</dd>
+				<dt>Type</dt>
+				<dd>
+					<p>The type of slider, either continuous, which allows for selecting any value within a range, or discrete, which limits value selection to a specific set of numbers based on the amount of tick markers specified.</p>
+				</dd>
+				<dt>Show Tick Marks</dt>
+				<dd>
+					<p>A boolean that determines if tick marks are visible.</p>
+				</dd>
+				<dt>Number of Tick Marks</dt>
+				<dd>
+					<p>A number that represents how many tick marks are shown. Tick marks are equally spaced within the slider and determine the values that a discrete slider can be set to. Only available when the type of the slider is set to discrete.</p>
+				</dd>
+				<dt>Color</dt>
+				<dd>
+					<p>The color of the slider handle. The color of the value indicator, background, and tick marks are automatically generated based on this value.</p>
+				</dd>
+				<dt>Min Value</dt>
+				<dd>
+					<p>A number that represents the minimum value that the slider can be set to.</p>
+				</dd>
+				<dt>Max Value</dt>
+				<dd>
+					<p>A number that represents the maximum value that the slider can be set to.</p>
+				</dd>
+				<dt>Show Value Indicator</dt>
+				<dd>
+					<p>A boolean that determines if the indicator that displays the current value is shown when the slider handle is dragged.</p>
+				</dd>
+				<dt>Progress</dt>
+				<dd>
+					<p>A number that represents a position of the slider handle, from 0 to 1. When this is changed or when <b>Set to Progress</b> is pulsed, the position of the slider will be updated to this value.</p>
+				</dd>
+				<dt>Set to Progress</dt>
+				<dd>
+					<p>A pulse that sets the progress to the specified value.</p>
+				</dd>
+			</dl>
+		</div>
+		<div class="outputs">
+			<h2>Layer Outputs</h2>
+			<dl>
+				<dt>Progress</dt>
+				<dd>
+					<p>A number that represents the current position of the slider handle, from 0 to 1.</p>
+				</dd>
+				<dt>Value</dt>
+				<dd>
+					<p>A number that represents the current value of the slider, from the minimum value to the maximum value.</p>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>

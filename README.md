@@ -249,7 +249,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 
 ## Share Sheet
 
-An Android bottom sheet with share actions
+An Android bottom sheet with share actions.
 <br>
 Use the Touch button on the component to capture which icon was tapped.
 
@@ -275,6 +275,38 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Icon 4 Tapped**&nbsp;&nbsp; A pulse that represents when the fourth icon is tapped.
 * **Icon 5 Tapped**&nbsp;&nbsp; A pulse that represents when the fifth icon is tapped.
 * **Icon 6 Tapped**&nbsp;&nbsp; A pulse that represents when the sixth icon is tapped.
+
+&nbsp;
+
+## Slider
+
+An Android slider that can be either continuous or discrete.
+<br>
+Use the Touch button on the component to get information about the current progress or value.
+
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Slider.gif" width="300">
+
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Slider.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Slider%20%E2%80%93%20Example.origami) 
+
+### Inputs
+
+* **Position**&nbsp;&nbsp; The position to display the slider.
+* **Width**&nbsp;&nbsp; A number that represents the width of the slider.
+* **Anchor**&nbsp;&nbsp; The anchor point to position the slider relative to.
+* **Type**&nbsp;&nbsp; The type of slider, either continuous, which allows for selecting any value within a range, or discrete, which limits value selection to a specific set of numbers based on the amount of tick markers specified.
+* **Show Tick Marks**&nbsp;&nbsp; A boolean that determines if tick marks are visible.
+* **Number of Tick Marks**&nbsp;&nbsp; A number that represents how many tick marks are shown. Tick marks are equally spaced within the slider and determine the values that a discrete slider can be set to. Only available when the type of the slider is set to discrete.
+* **Color**&nbsp;&nbsp; The color of the slider handle. The color of the value indicator, background, and tick marks are automatically generated based on this value.
+* **Min Value**&nbsp;&nbsp; A number that represents the minimum value that the slider can be set to.
+* **Max Value**&nbsp;&nbsp; A number that represents the maximum value that the slider can be set to.
+* **Show Value Indicator**&nbsp;&nbsp; A boolean that determines if the indicator that displays the current value is shown when the slider handle is dragged.
+* **Progress**&nbsp;&nbsp; A number that represents a position of the slider handle, from 0 to 1. When this is changed or when <b>Set to Progress</b> is pulsed, the position of the slider will be updated to this value.
+* **Set to Progress**&nbsp;&nbsp; A pulse that sets the progress to the specified value.
+
+### Outputs
+
+* **Progress**&nbsp;&nbsp; A number that represents the current position of the slider handle, from 0 to 1.
+* **Value**&nbsp;&nbsp; A number that represents the current value of the slider, from the minimum value to the maximum value.
 
 &nbsp;
 

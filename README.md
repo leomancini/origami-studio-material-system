@@ -8,6 +8,7 @@
 - [Menu](https://github.com/leomancini31/origami-android-components#menu)
 - [Notification](https://github.com/leomancini31/origami-android-components#notification)
 - [Share Sheet](https://github.com/leomancini31/origami-android-components#share-sheet)
+- [Slider](https://github.com/leomancini31/origami-android-components#slider)
 - [System Navigation Bar](https://github.com/leomancini31/origami-android-components#system-navigation-bar)
 - [Tabs](https://github.com/leomancini31/origami-android-components#tabs)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)

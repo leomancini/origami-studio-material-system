@@ -22,7 +22,7 @@ An Android bottom navigation with customizable tabs.
 <br>
 Use the Touch button on the component to get information about the selected tab.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Navigation%20Bar.gif" width="350">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Navigation%20Bar.gif" width="320">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Bottom%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
@@ -64,7 +64,7 @@ An Android bottom sheet with a list of actions.
 <br>
 Use the Touch button on the component to capture which row was tapped.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Sheet.gif" width="300">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Sheet.gif" width="320">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Bottom%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Sheet%20%E2%80%93%20Example.origami) 
 
@@ -127,7 +127,7 @@ An Android floating action button that can be displayed in various formats (icon
 <br>
 Use the Touch button on the component to capture when the button is tapped or which secondary button was tapped.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Floating%20Action%20Button.gif" width="149">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Floating%20Action%20Button.gif" width="160">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Floating%20Action%20Button.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Floating%20Action%20Button%20%E2%80%93%20Example.origami) 
 
@@ -224,7 +224,7 @@ An Android menu with a list of actions.
 <br>
 Use the Touch button on the component to capture which item was tapped.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Menu.gif" width="200">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Menu.gif" width="190">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Menu.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Menu%20%E2%80%93%20Example.origami) 
 
@@ -269,7 +269,7 @@ A pushed Android notification with customizable app information and messaging. V
 <br>
 Use the Touch button on the component to capture when the notification was tapped.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Notification.jpg" width="362">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Notification.jpg" width="320">
 
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Notification.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Notification%20%E2%80%93%20Example.origami) 
@@ -298,7 +298,7 @@ An Android bottom sheet with share actions.
 <br>
 Use the Touch button on the component to capture which icon was tapped.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.gif" width="300">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.gif" width="320">
 
 Icons from 
 [Material Design](https://material.io/tools/icons/?style=baseline)
@@ -329,7 +329,7 @@ An Android slider that can be either continuous or discrete.
 <br>
 Use the Touch button on the component to get information about the current progress or value.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Slider.gif" width="300">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Slider.gif" width="320">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Slider.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Slider%20%E2%80%93%20Example.origami) 
 

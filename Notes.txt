@@ -2,6 +2,7 @@ iOS						Android						Status
 
 Action Sheet			Bottom Sheet				DONE
 						Button						DONE
+						Floating Action Button		DONE
 						Checkbox					Included in Origami
 Activity Indicator		Circular Progress			Included in Origami
 Alert View				Alert View					Included in Origami
@@ -12,21 +13,27 @@ Page Control			Page Control				Included in Origami
 Screen					Screen						Included in Origami
 Segmented Control		Tabs						DONE
 Slider					Slider						DONE
+						Icon						DONE
 						Share Sheet					DONE
 						System Navigation Bar		DONE
+						Menu						DONE
 Status Bar				Status Bar					Included in Origami	
 Switch					Switch						Included in Origami	
 Tab Bar					Bottom Navigation Bar		DONE
 Visual Effect			N/A							N/A
 
-													Menu – DONE
-													Icon – DONE
-													Floating action button – DONE
+
 
 													TO DO
 													
+													Chips – FINISH, clean, documentation, readme section, GIF
 													
 													
+													Add LICENCE
+													Add installation instructions
+													
+													
+																										
 													OTHER IDEAS
 													
 													Navigation drawer
@@ -34,6 +41,3 @@ Visual Effect			N/A							N/A
 													Chips – IN PROGRESS
 													
 													
-													Add LICENCE
-													Add installation instructions
-												

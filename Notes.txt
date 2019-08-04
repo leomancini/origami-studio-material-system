@@ -21,11 +21,10 @@ Visual Effect			N/A							N/A
 
 													Menu – DONE
 													Icon – DONE
-													
+													Floating action button – DONE
 
 													TO DO
 													
-													Floating action button – TO ADD DOCUMENTATION, GIF, AND README SECTION
 													
 													
 													OTHER IDEAS
@@ -37,5 +36,4 @@ Visual Effect			N/A							N/A
 													
 													Add LICENCE
 													Add installation instructions
-													
-													Add position Y to FAB
+												

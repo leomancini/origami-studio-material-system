@@ -3,6 +3,7 @@
 - [Bottom Navigation Bar](https://github.com/leomancini31/origami-android-components#bottom-navigation-bar)
 - [Bottom Sheet](https://github.com/leomancini31/origami-android-components#bottom-sheet)
 - [Button](https://github.com/leomancini31/origami-android-components#button)
+- [Floating Action Button](https://github.com/leomancini31/origami-android-components#floating-action-button)
 - [Icon (Layer)](https://github.com/leomancini31/origami-android-components#icon-layer)
 - [Icon (Patch)](https://github.com/leomancini31/origami-android-components#icon-patch)
 - [Menu](https://github.com/leomancini31/origami-android-components#menu)
@@ -117,6 +118,49 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 
 * **Button Tapped**&nbsp;&nbsp; A pulse that represents when the button is tapped.
 * **Button Down**&nbsp;&nbsp; A boolean that is true when the button is pressed.
+
+&nbsp;
+
+## Floating Action Button
+
+An Android floating action button that can be displayed in various formats (icon only, icon and text, centered, full-width, etc). Optionally, secondary buttons can appear when the floating action button is tapped.
+<br>
+Use the Touch button on the component to capture when the button is tapped or which secondary button was tapped.
+
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Floating%20Action%20Button.gif" width="149">
+
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Floating%20Action%20Button.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Floating%20Action%20Button%20%E2%80%93%20Example.origami) 
+
+### Inputs
+
+* **Enable**&nbsp;&nbsp; A boolean that is true when the floating action button is displayed.
+* **Bottom Margin**&nbsp;&nbsp; A number representing the relative distance from the bottom of the screen. Useful for offsetting the position of the floating action button when a system navigation bar is present.
+* **Show Icon**&nbsp;&nbsp; A boolean that determines whether the floating action button includes an icon.
+* **Show Label**&nbsp;&nbsp; A boolean that determines whether the floating action button includes a text label.
+* **Full Width**&nbsp;&nbsp; A boolean that determines whether the floating action button stretches to the full width of the device screen.
+* **Center**&nbsp;&nbsp; A boolean that determines whether the floating action button is centered within the width of the device screen.
+* **Icon**&nbsp;&nbsp; An image that represents the icon displayed on the floating action button.
+* **Icon Color**&nbsp;&nbsp; The color of the icon displayed on the floating action button.
+* **Background Color**&nbsp;&nbsp; The color of the floating action button.
+* **Label**&nbsp;&nbsp; A text string that represents the value of the label on the floating action button.
+* **Label Color**&nbsp;&nbsp; The color of the label on the floating action button.
+* **Show Secondary Buttons on Tap**&nbsp;&nbsp; A boolean that determines whether a list of secondary buttons is displayed when the floating action button is tapped. Secondary buttons are identified from bottom to top (the secondary button closest to the primary button is "Secondary Button 1" and the secondary button the furthest from the primary button is "Secondary Button 6".)
+* **All Secondary Buttons - Icon Color**&nbsp;&nbsp; The color of the icons displayed on each of the secondary buttons.
+* **All Secondary Buttons - Number of Buttons**&nbsp;&nbsp; A number that determines how many secondary buttons are visible. The minimum is 3 and the maximum is 6, determined by Material Design guidelines.
+* **All Secondary Buttons - Show Labels**&nbsp;&nbsp; A boolean that determines whether a text label is shown next to each of the secondary buttons.
+
+### Outputs
+
+* **Primary Button Tapped**&nbsp;&nbsp; A pulse that represents when the floating action button is tapped.
+* **Any Secondary Button Tapped**&nbsp;&nbsp; A pulse that represents when any secondary button is tapped.
+* **Tapped Secondary Button Index**&nbsp;&nbsp; An index that represents which secondary button is tapped, starting at 0.  Secondary buttons are identified from bottom to top (the secondary button closest to the primary button is 0 and the secondary button the furthest from the primary button is 5.
+* **Tapped Secondary Button Label Text**&nbsp;&nbsp; A text string that represents the value of the label next to the secondary button which is tapped.
+* **Secondary Button 1 Tapped**&nbsp;&nbsp; A pulse that represents when the secondary button closest to the primary button is tapped.
+* **Secondary Button 2 Tapped**&nbsp;&nbsp; A pulse that represents when the secondary button second closest to the primary button is tapped.
+* **Secondary Button 3 Tapped**&nbsp;&nbsp; A pulse that represents when the secondary button third closest to the primary button is tapped.
+* **Secondary Button 4 Tapped**&nbsp;&nbsp; A pulse that represents when the secondary button fourth closest to the primary button is tapped.
+* **Secondary Button 5 Tapped**&nbsp;&nbsp; A pulse that represents when the secondary button fifth closest to the primary button is tapped.
+* **Secondary Button 6 Tapped**&nbsp;&nbsp; A pulse that represents when the secondary button sixth closest to the primary button is tapped.
 
 &nbsp;
 

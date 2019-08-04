@@ -11,7 +11,7 @@ Notification			Notification				DONE
 Page Control			Page Control				Included in Origami
 Screen					Screen						Included in Origami
 Segmented Control		Tabs						DONE
-Slider					Slider						TO DO
+Slider					Slider						DONE
 						Share Sheet					DONE
 						System Navigation Bar		DONE
 Status Bar				Status Bar					Included in Origami	
@@ -25,12 +25,17 @@ Visual Effect			N/A							N/A
 
 													TO DO
 													
-													Slider - TO DO
+													Floating action button – TO ADD DOCUMENTATION, GIF, AND README SECTION
 													
 													
 													OTHER IDEAS
 													
-													Floating action button – TO CLEAN
 													Navigation drawer
 													Snackbars
 													Chips – IN PROGRESS
+													
+													
+													Add LICENCE
+													Add installation instructions
+													
+													Add position Y to FAB

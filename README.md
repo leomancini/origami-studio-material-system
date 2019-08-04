@@ -28,7 +28,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 ### Inputs
 
 * **Enable**&nbsp;&nbsp; A boolean that is true when the tab bar is displayed.
-* **Position Y**&nbsp;&nbsp; The vertical position of the bottom navigation relative to the bottom of its parent group or screen.
+* **Bottom Margin**&nbsp;&nbsp; A number representing the relative distance from the bottom of the screen. Useful for offsetting the position of the share sheet when a system navigation bar is present.
 * **Opacity**&nbsp;&nbsp; The opacity of the tab bar.
 * **Only Show Label on Selected Tab**&nbsp;&nbsp; A boolean that determines if labels should be only shown on the selected tab or on all tabs.
 * **Number of Tabs**&nbsp;&nbsp; A number representing the number of items in the bottom navigation.

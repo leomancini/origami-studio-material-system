@@ -329,7 +329,7 @@ An Android slider that can be either continuous or discrete.
 <br>
 Use the Touch button on the component to get information about the current progress or value.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Slider.gif" width="320">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Slider.gif" width="280">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Slider.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Slider%20%E2%80%93%20Example.origami) 
 

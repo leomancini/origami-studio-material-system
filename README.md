@@ -42,7 +42,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Selected Tab Label Color**: The color of the label of the selected tab.
 * **Pressed Indicator Enable**: A boolean that determines if a pressed indicator is shown on tabs when tapped.
 * **Pressed Indicator Use Auto Color**: A boolean that determines if the pressed indicator color is automatically generated based on the background and tab icon colors.
-* **Pressed Indicator Manual Color**: The color of the pressed indicator if Use Auto Color is not set to true.
+* **Pressed Indicator Manual Color**: The color of the pressed indicator if <b>Use Auto Color</b> is not set to true.
 
 ### Outputs
 
@@ -108,11 +108,11 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Anchor**: The anchor point to position the button relative to.
 * **Margin**: The width and height of the margin around the button.
 * **Use Auto Width**: A boolean that determines if the width should be automatically set based on the width of the label text.
-* **Manual Width**: A number that represents the width of the button, if Use Auto Width is not set to true.
+* **Manual Width**: A number that represents the width of the button, if <b>Use Auto Width</b> is not set to true.
 * **Background Color**: The background color of the button.
 * **Label Text**: A string that represents the text of the label of the button.
 * **Label Use Auto Text Color**: A boolean that determines if the label color is automatically generated based on the button's background color.
-* **Label Manual Text Color**: The color of the label if Use Auto Text Color is not set to true.
+* **Label Manual Text Color**: The color of the label if <b>Use Auto Text Color</b> is not set to true.
 
 ### Outputs
 
@@ -182,7 +182,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Icon Identifier**: A text string that determines which icon is requested. These correspond to the string in between the 'ic' and the color in the URL to be loaded. For example, a value of '3d_rotation' would load <https://github.com/google/material-design-icons/blob/master/action/drawable-xxhdpi/ic_3d_rotation_black_18dp.png>
 * **Size**: A number, in Density Independent pixels, that determines the size of the specified icon. The value can be either 18, 24, 36, or 48.
 * **Use Auto Resolution**: A boolean that determines if resolution to be specified is automatically set based on the screen scale of the device.
-* **Resolution**: The resolution of the icon, if Use Auto Resolution is not set to true. The value can be either MDPI, HDPI, XHPDI, XXHPDI, or XXXHPDI.
+* **Resolution**: The resolution of the icon, if <b>Use Auto Resolution</b> is not set to true. The value can be either MDPI, HDPI, XHPDI, XXHPDI, or XXXHPDI.
 * **Color**: The color of the icon.
 
 ### Outputs
@@ -209,7 +209,7 @@ Download: [Patch Component](https://github.com/leomancini31/origami-android-comp
 * **Icon Identifier**: A text string that determines which icon is requested. These correspond to the string in between the 'ic' and the color in the URL to be loaded. For example, a value of '3d_rotation' would load <https://github.com/google/material-design-icons/blob/master/action/drawable-xxhdpi/ic_3d_rotation_black_18dp.png>
 * **Size**: A number, in Density Independent pixels, that determines the size of the specified icon. The value can be either 18, 24, 36, or 48.
 * **Use Auto Resolution**: A boolean that determines if resolution to be specified is automatically set based on the screen scale of the device.
-* **Resolution**: The resolution of the icon, if Use Auto Resolution is not set to true. The value can be either MDPI, HDPI, XHPDI, XXHPDI, or XXXHPDI.
+* **Resolution**: The resolution of the icon, if <b>Use Auto Resolution</b> is not set to true. The value can be either MDPI, HDPI, XHPDI, XXHPDI, or XXXHPDI.
 
 ### Outputs
 
@@ -236,11 +236,11 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Anchor**: The anchor point to position the menu relative to.
 * **Position**: The position to display the menu.
 * **Use Auto Width**: A boolean that determines if the width should be automatically set based on the width of the longest item text.
-* **Manual Width**: A number that represents the width of the menu, if Use Auto Width is not set to true.
+* **Manual Width**: A number that represents the width of the menu, if <b>Use Auto Width</b> is not set to true.
 * **Use Auto Number of Items**: A boolean that determines if number of visible items be automatically set based on the amount of items that have a text string assigned.
-* **Manual Number of Items**: A number that represents the number of visible items, if Use Auto Number of Items is not set to true.
+* **Manual Number of Items**: A number that represents the number of visible items, if <b>Use Auto Number of Items</b> is not set to true.
 * **Use Auto Pivot Position**: A boolean that determines if the position where the menu originates from should be automatically set based on where the menu is positioned.
-* **Manual Pivot Position**: The position where the menu originates from, if Use Auto Pivot Position is not set to true.
+* **Manual Pivot Position**: The position where the menu originates from, if <b>Use Auto Pivot Position</b> is not set to true.
 * **Show Icons**: A boolean that determines if an icon is shown on the left side of each item.
 
 ### Outputs
@@ -447,7 +447,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Right Icon Color**: The color of the right icon.
 * **Pressed Indicator Enable**: A boolean that determines if a pressed indicator is shown on icons when tapped.
 * **Pressed Indicator Use Auto Color**: A boolean that determines if the pressed indicator color is automatically generated based on the background and icon colors.
-* **Pressed Indicator Manual Color**: The color of the pressed indicator if Use Auto Color is not set to true.
+* **Pressed Indicator Manual Color**: The color of the pressed indicator if <b>Use Auto Color</b> is not set to true.
 
 ### Outputs
 

@@ -22,7 +22,7 @@ An Android bottom navigation with customizable tabs.
 <br>
 Use the Touch button on the component to get information about the selected tab.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Navigation%20Bar.gif" width="320">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Navigation%20Bar.gif" width="360">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Bottom%20Navigation%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Navigation%20Bar%20%E2%80%93%20Example.origami) 
 
@@ -64,7 +64,7 @@ An Android bottom sheet with a list of actions.
 <br>
 Use the Touch button on the component to capture which row was tapped.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Sheet.gif" width="320">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Bottom%20Sheet.gif" width="360">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Bottom%20Sheet.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Bottom%20Sheet%20%E2%80%93%20Example.origami) 
 
@@ -269,7 +269,7 @@ A pushed Android notification with customizable app information and messaging. V
 <br>
 Use the Touch button on the component to capture when the notification was tapped.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Notification.jpg" width="320">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Notification.jpg" width="360">
 
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Notification.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Notification%20%E2%80%93%20Example.origami) 
@@ -298,7 +298,7 @@ An Android bottom sheet with share actions.
 <br>
 Use the Touch button on the component to capture which icon was tapped.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.gif" width="320">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Share%20Sheet.gif" width="360">
 
 Icons from 
 [Material Design](https://material.io/tools/icons/?style=baseline)
@@ -388,7 +388,7 @@ An Android tab bar with customizable items.
 <br>
 Use the Touch button on the component to get information about the selected tab.
 
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Tabs.gif" width="320">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Tabs.gif" width="360">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Tabs.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Tabs%20%E2%80%93%20Example.origami)
 
@@ -426,7 +426,7 @@ An Android top app bar with customizable left and right actions. It offers regul
 Use the Touch button on the component to capture taps on individual icons in the app bar.
 
 <br>
-<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Top%20App%20Bar.gif" width="320">
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Top%20App%20Bar.gif" width="360">
 
 Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Top%20App%20Bar.origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Top%20App%20Bar%20%E2%80%93%20Example.origami)
 

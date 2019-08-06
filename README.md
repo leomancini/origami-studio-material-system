@@ -24,7 +24,7 @@ In Origami Studio, open <i>Preferences</i>. Select <i>Systems</i> in the toolbar
 
 ## Usage
 
-In Origami files that have an Android device selected, the components will appear under "Material > 	" in the layer insertion popover or the Patch Library.
+In Origami files that have an Android device selected, the components will appear under "Material > Other" in the layer insertion popover or the Patch Library.
 
 ## Component Documentation
 

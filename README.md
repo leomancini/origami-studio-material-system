@@ -1,9 +1,6 @@
 # Origami Android Components
 
-<br>
-
 <img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Overview%20Preview.png">
-
 <br>
 
 ## Index
@@ -21,19 +18,16 @@
 - [System Navigation Bar](https://github.com/leomancini31/origami-android-components#system-navigation-bar)
 - [Tabs](https://github.com/leomancini31/origami-android-components#tabs)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)
-
 <br>
 
 ## Installation
 
 In Origami Studio, open <i>Preferences</i>. Select <i>Systems</i> in the toolbar and then click the + in the bottom right. In the file browser, navigate to "Origami Material System", select "System", and then "Material" and click <i>Open</i>.
-
 <br>
 
 ## Usage
 
 Now, in Origami files that have an Android device selected, the components will appear in the layer insertion popover or the Patch Library.
-
 <br>
 
 ## Component Documentation

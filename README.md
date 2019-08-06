@@ -1,7 +1,6 @@
 # Origami Android Components
 
 <img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Overview%20Preview.png">
-<br>
 
 ## Index
 

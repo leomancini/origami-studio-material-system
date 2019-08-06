@@ -1,5 +1,7 @@
 # Origami Android Components
 
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Overview%20Preview.png">
+
 - [Bottom Navigation Bar](https://github.com/leomancini31/origami-android-components#bottom-navigation-bar)
 - [Bottom Sheet](https://github.com/leomancini31/origami-android-components#bottom-sheet)
 - [Button](https://github.com/leomancini31/origami-android-components#button)

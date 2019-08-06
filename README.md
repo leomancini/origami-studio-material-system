@@ -21,8 +21,6 @@
 - [Tabs](https://github.com/leomancini31/origami-android-components#tabs)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)
 
-<br>
-
 <b>Installation</b>
 <br>
 In Origami Studio, open <i>Preferences</i>. Select <i>Systems</i> in the toolbar and then click the + in the bottom right. In the file browser, navigate to "Origami Material System", select "System", and then "Material" and click <i>Open</i>.

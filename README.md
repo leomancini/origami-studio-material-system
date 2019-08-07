@@ -8,9 +8,11 @@ A library of components for [Origami Studio](https://origami.design) based on Go
 ## Index
 
 [Bottom Navigation Bar](https://github.com/leomancini31/origami-android-components#bottom-navigation-bar)
+
 An Android bottom navigation with customizable tabs.
 
 [Bottom Sheet](https://github.com/leomancini31/origami-android-components#bottom-sheet)
+
 An Android bottom sheet with a list of actions.
 
 [Button](https://github.com/leomancini31/origami-android-components#button)

@@ -1,5 +1,5 @@
 # Origami Android Components
-### A library of components for [Origami Studio](https://origami.design) based on Google's Material design patterns.
+#### A library of components for [Origami Studio](https://origami.design) based on Google's Material design patterns.
 
 <br>
 <img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Overview%20Preview.png">

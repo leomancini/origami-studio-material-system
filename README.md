@@ -21,7 +21,7 @@ A library of components for [Origami Studio](https://origami.design) based on Go
 - [Tabs](https://github.com/leomancini31/origami-android-components#tabs)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)
 
-## 🔌 Installation
+## <span style="font-size: 12px;">🔌</span> Installation
 
 In Origami Studio, open <i>Preferences</i>. Select <i>Systems</i> in the toolbar and then click the + in the bottom right. In the file browser, navigate to "Origami Material System", select "System", and then "Material" and click <i>Open</i>.
 

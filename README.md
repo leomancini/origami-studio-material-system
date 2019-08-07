@@ -14,6 +14,7 @@ A library of components for [Origami Studio](https://origami.design) based on Go
 - [Icon (Layer)](https://github.com/leomancini31/origami-android-components#icon-layer)
 - [Icon (Patch)](https://github.com/leomancini31/origami-android-components#icon-patch)
 - [Menu](https://github.com/leomancini31/origami-android-components#menu)
+- [Navigation Drawer](https://github.com/leomancini31/origami-android-components#navigation-drawer)
 - [Notification](https://github.com/leomancini31/origami-android-components#notification)
 - [Share Sheet](https://github.com/leomancini31/origami-android-components#share-sheet)
 - [Slider](https://github.com/leomancini31/origami-android-components#slider)
@@ -278,6 +279,42 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 
 &nbsp;
 
+### Navigation Drawer
+
+An Android navigation drawer with an optional header.
+<br>
+Use the Touch button on the component to get information about the selected row.
+
+<img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Navigation%20Drawer.gif" width="360">
+
+Download: [Layer Component](https://github.com/leomancini31/origami-android-components/raw/master/System/Material/Layers/Navigation%20Drawer%20(Modal).origami) · [Example Usage](https://github.com/leomancini31/origami-android-components/raw/master/Examples/Navigation%20Drawer%20%E2%80%93%20Example.origami) 
+
+#### Inputs
+
+* **Present**: A pulse that displays the navigation drawer.
+* **Number of Rows**: A number that represents the number of visible rows.
+* **Bottom Margin**: A number representing the relative distance from the bottom of the screen. Useful for offsetting the position of the share sheet when a system navigation bar is present.
+* **Show Header**: A boolean that determines if a top header is visible.
+* **Show Icon**: A boolean that determines if an icon is visible in the top header.
+* **Title**: A text string representing the title in the top header.
+* **Subtitle**: A text string representing the subtitle in the top header.
+* **Selected Row Icon Color**: The color of the icon of the selected row.
+* **Selected Row Text Color**: The color of the label of the selected row.
+
+#### Outputs
+
+* **Selected Row Index**: An index that represents the currently selected row, starting at 0.
+* **Selected Row Label Text**: A text string that represents the label of the currently selected row.
+* **Any Row Tapped**: A pulse that represents when any row is tapped.
+* **Row 1 Tapped**: A pulse that represents when the first row is tapped.
+* **Row 2 Tapped**: A pulse that represents when the second row is tapped.
+* **Row 3 Tapped**: A pulse that represents when the third row is tapped.
+* **Row 4 Tapped**: A pulse that represents when the fourth row is tapped.
+* **Row 5 Tapped**: A pulse that represents when the fifth row is tapped.
+* **Row 6 Tapped**: A pulse that represents when the sixth row is tapped.
+
+&nbsp;
+
 ### Notification
 
 A pushed Android notification with customizable app information and messaging. Visual style most closely aligns with Samsung UI.
@@ -392,8 +429,8 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Any Button Tapped**: A pulse that represents when any button is tapped.
 * **Back Button Tapped**: A pulse that represents when the back button is tapped.
 * **Home Button Tapped**: A pulse that represents when the home button is tapped.
-* **App Switcher Button Tapped**&nbsp;&nbsp;A pulse that represents when the app switcher button is tapped.
-* **Height**&nbsp;&nbsp;A number representing the height of the navigation bar, in points.
+* **App Switcher Button Tapped**:A pulse that represents when the app switcher button is tapped.
+* **Height**:A number representing the height of the navigation bar, in points.
 
 &nbsp;
 

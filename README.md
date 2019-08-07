@@ -5,7 +5,7 @@ A library of components for [Origami Studio](https://origami.design) based on Go
 <img src="https://github.com/leomancini31/origami-android-components/blob/master/Screenshots/Overview%20Preview.png">
 <br>
 
-## Index
+## 📇 Index
 
 - [Bottom Navigation Bar](https://github.com/leomancini31/origami-android-components#bottom-navigation-bar)
 - [Bottom Sheet](https://github.com/leomancini31/origami-android-components#bottom-sheet)
@@ -21,15 +21,15 @@ A library of components for [Origami Studio](https://origami.design) based on Go
 - [Tabs](https://github.com/leomancini31/origami-android-components#tabs)
 - [Top App Bar](https://github.com/leomancini31/origami-android-components#top-app-bar)
 
-## Installation
+## 🔌 Installation
 
 In Origami Studio, open <i>Preferences</i>. Select <i>Systems</i> in the toolbar and then click the + in the bottom right. In the file browser, navigate to "Origami Material System", select "System", and then "Material" and click <i>Open</i>.
 
-## Usage
+## 💡 Usage
 
 In Origami files that have an Android device selected, the components will appear under "Material > Other" in the layer insertion popover or the Patch Library.
 
-## Component Documentation
+## 📑 Component Documentation
 
 ### Bottom Navigation Bar
 

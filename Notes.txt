@@ -3,6 +3,7 @@ iOS						Android						Status
 Action Sheet			Bottom Sheet				DONE
 						Button						DONE
 						Floating Action Button		DONE
+						Navigation Drawer			DONE
 						Checkbox					Included in Origami
 Activity Indicator		Circular Progress			Included in Origami
 Alert View				Alert View					Included in Origami
@@ -30,13 +31,13 @@ Visual Effect			N/A							N/A
 													
 													
 													Add LICENCE
-													Add installation instructions
-													
-													
+												
+												
+												
+																									
 																										
 													OTHER IDEAS
 													
-													Navigation drawer
 													Snackbars
 													Chips – IN PROGRESS
 													

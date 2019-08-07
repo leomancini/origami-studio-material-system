@@ -292,8 +292,7 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 #### Inputs
 
 * **Present**: A pulse that displays the navigation drawer.
-* **Number of Rows**: A number that represents the number of visible rows.
-* **Bottom Margin**: A number representing the relative distance from the bottom of the screen. Useful for offsetting the position of the share sheet when a system navigation bar is present.
+* **Number of Rows**: A number that represents the number of visible rows, from 2 to 6.
 * **Show Header**: A boolean that determines if a top header is visible.
 * **Show Icon**: A boolean that determines if an icon is visible in the top header.
 * **Title**: A text string representing the title in the top header.

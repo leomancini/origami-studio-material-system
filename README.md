@@ -23,11 +23,11 @@ A library of components for [Origami Studio](https://origami.design) based on Go
 
 ## Installation
 
-In Origami Studio, open <i>Preferences</i>. Select <i>Systems</i> in the toolbar and then click the + in the bottom right. In the file browser, navigate to "Origami Material System", select "System", and then "Material" and click <i>Open</i>.
+Clone [the Git repository](https://github.com/leomancini31/origami-android-components.git) or download [the ZIP file](https://github.com/leomancini31/origami-android-components/archive/master.zip). In Origami Studio, open <i>Preferences</i>. Choose <i>Systems</i> in the toolbar, then click the + in the bottom right. In the file browser, navigate to where you saved the folder "Origami Material System", select "System", and then choose "Material" and click <i>Open</i>.
 
 ## Usage
 
-In Origami files that have an Android device selected, the components will appear under "Material > Other" in the layer insertion popover or the Patch Library.
+In Origami Studio, select any Android device in the Viewer. The components will appear under "Material > Other" in the layer insertion popover or the Patch Library.
 
 ## Component Documentation
 

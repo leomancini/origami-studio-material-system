@@ -271,11 +271,11 @@ Download: [Layer Component](https://github.com/leomancini31/origami-android-comp
 * **Item 5 Tapped**: A pulse that represents when the fifth item is tapped.
 * **Item 6 Tapped**: A pulse that represents when the sixth item is tapped.
 * **Item 7 Tapped**: A pulse that represents when the seventh item is tapped.
-* **Item 8 Tapped**: A pulse that represents when the eigth item is tapped.
+* **Item 8 Tapped**: A pulse that represents when the eighth item is tapped.
 * **Item 9 Tapped**: A pulse that represents when the ninth item is tapped.
 * **Item 10 Tapped**: A pulse that represents when the tenth item is tapped.
 * **Item 11 Tapped**: A pulse that represents when the eleventh item is tapped.
-* **Item 12 Tapped**: A pulse that represents when the twelvth item is tapped.
+* **Item 12 Tapped**: A pulse that represents when the twelfth item is tapped.
 
 &nbsp;
 

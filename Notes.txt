@@ -27,7 +27,6 @@ Visual Effect			N/A							N/A
 
 													TO DO
 													
-													Navigation drawer - CLEAN
 													Chips – FINISH, clean, documentation, readme section, GIF
 													Add LICENCE
 												

@@ -24,7 +24,7 @@ A library of components for [Origami Studio](https://origami.design) based on Go
 
 ## Installation
 
-Clone [the Git repository](https://github.com/leomancini31/origami-android-components.git) or download [the ZIP file](https://github.com/leomancini31/origami-android-components/archive/master.zip). In Origami Studio, open <i>Preferences</i>. Choose <i>Systems</i> in the toolbar, then click the + in the bottom right. In the file browser, navigate to where you saved the folder "Origami Material System", select "System", and then choose "Material" and click <i>Open</i>.
+Clone [the Git repository](https://github.com/leomancini31/origami-android-components.git) or download [the ZIP file](https://github.com/leomancini31/origami-android-components/raw/master/Origami%20Material%20System.zip). In Origami Studio, open <i>Preferences</i>. Choose <i>Systems</i> in the toolbar, then click the + in the bottom right. In the file browser, navigate to where you saved the folder "Origami Material System", select "System", and then choose "Material" and click <i>Open</i>.
 
 ## Usage
 

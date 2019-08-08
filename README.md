@@ -1,4 +1,4 @@
-# Origami Android Components
+# Origami Studio Material System
 A library of components for [Origami Studio](https://origami.design) based on Google's Material design patterns.
 
 <br>

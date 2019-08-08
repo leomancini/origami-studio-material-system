@@ -28,7 +28,6 @@ Visual Effect			N/A							N/A
 													TO DO
 													
 													Chips – FINISH, clean, documentation, readme section, GIF
-													Add LICENCE
 												
 																									
 																										

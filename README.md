@@ -24,7 +24,7 @@ A library of components for [Origami Studio](https://origami.design) based on Go
 
 ## Installation
 
-Clone this repository or download the [ZIP file](https://github.com/leomancini31/origami-studio-material-system/raw/master/Origami%20Material%20System%201.0.zip). In Origami Studio, open <i>Preferences</i>. Choose <i>Systems</i> in the toolbar, then click the + in the bottom right. In the file browser, navigate to where you saved the folder "Origami Material System", select "System", and then choose "Material" and click <i>Open</i>. Restart Origami Studio.
+Clone this repository or download the [ZIP file](https://github.com/leomancini31/origami-studio-material-system/raw/master/Releases/Origami%20Material%20System%201.0.zip). In Origami Studio, open <i>Preferences</i>. Choose <i>Systems</i> in the toolbar, then click the + in the bottom right. In the file browser, navigate to where you saved the folder "Origami Material System", select "System", and then choose "Material" and click <i>Open</i>. Restart Origami Studio.
 
 ## Usage
 

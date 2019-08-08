@@ -1,0 +1,115 @@
+<p>An Android floating action button that can be displayed in various formats (icon only, icon and text, centered, full-width, etc). Optionally, secondary buttons can appear when the floating action button is tapped.</p>
+<p>Use the Touch button on the component to capture when the button is tapped or which secondary button was tapped.</p>
+<div class="ports">
+	<div class="layer">
+		<div class="inputs">
+			<h2>Layer Inputs</h2>
+			<dl>
+				<dt>Enable</dt>
+				<dd>
+					<p>A boolean that is true when the floating action button is displayed.</p>
+				</dd>
+				<dt>Bottom Margin</dt>
+				<dd>
+					<p>A number representing the relative distance from the bottom of the screen. Useful for offsetting the position of the floating action button when a system navigation bar is present.</p>
+				</dd>
+				<dt>Show Icon</dt>
+				<dd>
+					<p>A boolean that determines whether the floating action button includes an icon.</p>
+				</dd>
+				<dt>Show Label</dt>
+				<dd>
+					<p>A boolean that determines whether the floating action button includes a text label.</p>
+				</dd>
+				<dt>Full Width</dt>
+				<dd>
+					<p>A boolean that determines whether the floating action button stretches to the full width of the device screen.</p>
+				</dd>
+				<dt>Center</dt>
+				<dd>
+					<p>A boolean that determines whether the floating action button is centered within the width of the device screen.</p>
+				</dd>
+				<dt>Icon</dt>
+				<dd>
+					<p>An image that represents the icon displayed on the floating action button.</p>
+				</dd>
+				<dt>Icon Color</dt>
+				<dd>
+					<p>The color of the icon displayed on the floating action button.</p>
+				</dd>
+				<dt>Background Color</dt>
+				<dd>
+					<p>The color of the floating action button.</p>
+				</dd>
+				<dt>Label</dt>
+				<dd>
+					<p>A text string that represents the value of the label on the floating action button.</p>
+				</dd>
+				<dt>Label Color</dt>
+				<dd>
+					<p>The color of the label on the floating action button.</p>
+				</dd>
+				<dt>Show Secondary Buttons on Tap</dt>
+				<dd>
+					<p>A boolean that determines whether a list of secondary buttons is displayed when the floating action button is tapped. Secondary buttons are identified from bottom to top (the secondary button closest to the primary button is "Secondary Button 1" and the secondary button the furthest from the primary button is "Secondary Button 6".)</p>
+				</dd>
+				<dt>All Secondary Buttons - Icon Color</dt>
+				<dd>
+					<p>The color of the icons displayed on each of the secondary buttons.</p>
+				</dd>
+				<dt>All Secondary Buttons - Number of Buttons</dt>
+				<dd>
+					<p>A number that determines how many secondary buttons are visible. The minimum is 3 and the maximum is 6, determined by Material Design guidelines.</p>
+				</dd>
+				<dt>All Secondary Buttons - Show Labels</dt>
+				<dd>
+					<p>A boolean that determines whether a text label is shown next to each of the secondary buttons.</p>
+				</dd>
+			</dl>
+		</div>
+		<div class="outputs">
+			<h2>Layer Outputs</h2>
+			<dl>
+				<dt>Primary Button Tapped</dt>
+				<dd>
+					<p>A pulse that represents when the floating action button is tapped.</p>
+				</dd>
+				<dt>Any Secondary Button Tapped</dt>
+				<dd>
+					<p>A pulse that represents when any secondary button is tapped.</p>
+				</dd>
+				<dt>Tapped Secondary Button Index</dt>
+				<dd>
+					<p>An index that represents which secondary button is tapped, starting at 0.  Secondary buttons are identified from bottom to top (the secondary button closest to the primary button is 0 and the secondary button the furthest from the primary button is 5.</p>
+				</dd>
+				<dt>Tapped Secondary Button Label Text</dt>
+				<dd>
+					<p>A text string that represents the value of the label next to the secondary button which is tapped.</p>
+				</dd>
+				<dt>Secondary Button 1 Tapped</dt>
+				<dd>
+					<p>A pulse that represents when the secondary button closest to the primary button is tapped.</p>
+				</dd>
+				<dt>Secondary Button 2 Tapped</dt>
+				<dd>
+					<p>A pulse that represents when the secondary button second closest to the primary button is tapped.</p>
+				</dd>
+				<dt>Secondary Button 3 Tapped</dt>
+				<dd>
+					<p>A pulse that represents when the secondary button third closest to the primary button is tapped.</p>
+				</dd>
+				<dt>Secondary Button 4 Tapped</dt>
+				<dd>
+					<p>A pulse that represents when the secondary button fourth closest to the primary button is tapped.</p>
+				</dd>
+				<dt>Secondary Button 5 Tapped</dt>
+				<dd>
+					<p>A pulse that represents when the secondary button fifth closest to the primary button is tapped.</p>
+				</dd>
+				<dt>Secondary Button 6 Tapped</dt>
+				<dd>
+					<p>A pulse that represents when the secondary button sixth closest to the primary button is tapped.</p>
+				</dd>
+		</div>
+	</div>
+</div>

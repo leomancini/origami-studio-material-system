@@ -30,6 +30,8 @@ Clone this repository or download [the ZIP file](https://github.com/leomancini31
 
 In Origami Studio, select any Android device in the Viewer. The components will appear under "Material > Other" in the layer insertion popover or the Patch Library.
 
+<br>
+
 ## Component Documentation
 
 ### Bottom Navigation Bar

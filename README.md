@@ -34,7 +34,7 @@ In Origami Studio, select any Android device in the Viewer. The components will 
 
 The design patterns used in these components are based on Google's [Material design guidelines](https://material.io/design/). Icons are from the [baseline Material icon set](https://material.io/tools/icons/?style=baseline).
 
-For consistency, documentation format and language is based on the documentation for components included in [Origami Studio](https://origami.design).
+For consistency, documentation format and language is based on the existing documentation for components included in [Origami Studio](https://origami.design).
 
 <br>
 

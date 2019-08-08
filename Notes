@@ -1,0 +1,33 @@
+iOS				Android					Status
+
+Alert View			Alert View				Included in Origami		
+Tab Bar				Bottom Navigation Bar			DONE
+Action Sheet			Bottom Sheet				DONE	
+				Button					DONE
+				Checkbox				Included in Origami
+Activity Indicator		Circular Progress			Included in Origami
+Fake Keyboard			Fake Keyboard				Included in Origami		
+				Floating Action Button			DONE
+				Icon					DONE
+				Menu					DONE
+				Navigation Drawer			DONE
+Notification			Notification				DONE
+Page Control			Page Control				Included in Origami		
+				Screen					Included in Origami
+				Share Sheet				DONE
+Slider				Slider					DONE				
+Status Bar			Status Bar				Included in Origami
+Switch				Switch					Included in Origami
+				System Navigation Bar			DONE
+Segmented Control		Tabs					DONE
+Navigation Bar			Top App Bar				DONE
+Visual Effect			N/A					N/A
+
+
+TO DO												
+Chips – FINISH, clean, documentation, readme section, GIF
+
+
+OTHER IDEAS
+Snackbars
+Chips – WIP
